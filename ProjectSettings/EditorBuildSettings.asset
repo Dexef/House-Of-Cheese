@@ -8,4 +8,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/House.unity
     guid: d1c3109bdb54ad54c8a2b2838528e640
+  - enabled: 1
+    path: Assets/Scenes/shoot-em-up.unity
+    guid: 8b2512d0de62287479f109defc5d7785
   m_configObjects: {}
